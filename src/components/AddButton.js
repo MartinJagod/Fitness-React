@@ -4,6 +4,6 @@ import { Link } from 'react-router-dom'
 
 const AddButton = () => ( 
 <Link to="/exercise/new">
-<img src={ButtomImg} className = "Fitness-Add" Alt="Foto"/>
+<img src={ButtomImg} className = "Fitness-Add" alt="Foto"/>
 </Link>)
 export default AddButton
